@@ -26,7 +26,7 @@
 🚀 Software Developer Intern @ Prolific Consultants  
 🔥 Ex-Intern @ Celebal Technologies & Athang Robotics  
 
-- 🎓 B.Tech IT (2022–2026) | CGPA: 7.9  
+- 🎓 B.Tech IT (2022–2026)
 - ⚡ Strong in **DSA, OOP, Debugging & System Design**  
 - ☁️ Exploring **AWS, Cloud & Performance Optimization**  
 - 📫 Email: **undeonkar11@gmail.com**  
@@ -81,7 +81,7 @@
 
 ### 🔹 Vehicle Rental System
 Smart booking system with real-time availability  
-[![Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge)](https://github.com/Onkar-Unde)
+[![Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge)](https://car-bike-rental.netlify.app/)
 
 ---
 
