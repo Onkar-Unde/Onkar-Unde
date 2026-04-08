@@ -104,22 +104,6 @@ Full-stack food ordering platform
 
 ---
 
-## 📊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Onkar-Unde&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Onkar-Unde&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 💭 Dev Quote
 
 <p align="center">
