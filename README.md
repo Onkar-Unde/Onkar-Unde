@@ -1,27 +1,33 @@
+<!-- 🔥 PROFILE BANNER (Optional: replace with your custom image) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Onkar%20Unde&fontSize=40&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Onkar Unde</h1>
-<h3 align="center">🚀 Graduate Software Engineer | MERN Stack Developer | System Design Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Engineer | System Design Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;System+Design+Learner;Open+Source+Contributor&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Web+Apps;MERN+Stack+Developer;System+Design+Learner;Open+Source+Enthusiast&center=true&width=600&height=45">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-- 🎓 B.Tech IT Student (2022–2026) | CGPA: 7.9  
-- 💼 Software Developer Intern @ Prolific Consultants  
-- 🔥 Previously @ Celebal Technologies & Athang Robotics  
-- 💡 Passionate about **Scalable Systems, Backend Engineering & Open Source**  
-- 🌱 Currently exploring **System Design, AWS & Performance Optimization**  
-- ⚡ Strong in **DSA, Debugging, OOP & Problem Solving**  
-- 📫 Email: **undeonkar11@gmail.com**  
+💻 I’m a passionate **Software Engineer** focused on building **scalable and high-performance applications**.  
+🚀 Currently working as a **Software Developer Intern @ Prolific Consultants**  
+🔥 Experienced with real-world systems through internships at **Celebal Technologies** & **Athang Robotics**  
+
+- 🎓 B.Tech IT (2022–2026) | CGPA: 7.9  
+- ⚡ Strong in **DSA, OOP, Debugging & System Design**  
+- ☁️ Exploring **AWS, Cloud Architecture & Performance Optimization**  
+- 🧩 Love solving complex problems and improving system efficiency  
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Arsenal
 
-### 💻 Programming Languages
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
@@ -29,12 +35,10 @@
 
 ---
 
-### 🌐 Web Development
+### 🌐 Full Stack Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
@@ -54,61 +58,65 @@
 
 ---
 
-## 💼 Experience
+## 💼 Experience Snapshot
 
-### 🚀 Software Developer Intern – Prolific Consultants (Feb 2026 – Present)
-- ⚡ Improved application responsiveness by **20%**
-- 🐞 Debugged performance bottlenecks using structured techniques
-- ✅ Wrote unit tests to ensure application stability
-- 🐧 Worked in Linux-based development environments
+### 🚀 Prolific Consultants
+- ⚡ Boosted application responsiveness by **20%**
+- 🐞 Identified & resolved performance bottlenecks
+- ✅ Ensured stability with unit testing
 
----
+### 💻 Celebal Technologies
+- 🚀 Reduced load time by **80%**
+- 🧠 Designed scalable modules using OOP
 
-### 💻 Software Engineer Intern – Celebal Technologies (Jun 2025 – Aug 2025)
-- 🚀 Reduced application load time by **80%**
-- 🧠 Applied OOP & modular design for scalable architecture
-- 🤝 Collaborated in Agile workflows
-
----
-
-### 🌐 Web Development Intern – Athang Robotics (Mar 2024 – Apr 2024)
-- 🔧 Built REST APIs & frontend modules
-- 📈 Improved system efficiency by **35%**
-- 🧪 Tested & debugged application features
+### 🌐 Athang Robotics
+- 📈 Increased efficiency by **35%**
+- 🔧 Developed APIs + frontend features
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Vehicle Rental Web Application
-- 📍 Built smart booking system with date-based availability filtering  
-- ⚙️ Implemented optimized backend APIs using Node.js  
-- 🔥 Integrated Firebase & localStorage for dynamic data handling  
-- 📊 Improved performance and reduced runtime issues  
+### 🔹 Vehicle Rental System
+> Smart booking system with real-time availability filtering
+
+- ⚙️ Built using **React + Node.js + Firebase**
+- 📊 Optimized booking logic & performance
+- 🔥 Dynamic filtering using date/time selection
 
 ---
 
 ### 🔹 Canteen Management System
-- 🛒 Full-stack order & payment system  
-- ⚡ Optimized database queries for faster retrieval  
-- ✅ Implemented structured testing for reliability  
+> Full-stack food ordering & payment solution
+
+- 🛒 Developed complete order workflow
+- ⚡ Improved DB performance with optimized queries
+- ✅ Ensured reliability via testing
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Unde&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=Onkar-Unde&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Unde&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Onkar-Unde&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Unde&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Unde&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Onkar-Unde/Onkar-Unde/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/onkar-unde">
@@ -121,10 +129,7 @@
 
 ---
 
-## 🧠 Developer Mindset
+## 🧩 Developer Philosophy
 
 ```text
-✔ Write clean & scalable code  
-✔ Optimize performance  
-✔ Debug efficiently  
-✔ Build real-world impactful systems  
+Build → Optimize → Scale → Repeat
