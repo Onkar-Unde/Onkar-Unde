@@ -1,6 +1,6 @@
-<!-- 🔥 PROFILE BANNER (Optional: replace with your custom image) -->
+<!-- 🔥 PREMIUM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Onkar%20Unde&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:2C5364&height=220&section=header&text=Onkar%20Unde&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Onkar Unde</h1>
@@ -12,20 +12,28 @@
 
 ---
 
-## 🧠 About Me
+## 👀 Profile Views
 
-💻 I’m a passionate **Software Engineer** focused on building **scalable and high-performance applications**.  
-🚀 Currently working as a **Software Developer Intern @ Prolific Consultants**  
-🔥 Experienced with real-world systems through internships at **Celebal Technologies** & **Athang Robotics**  
-
-- 🎓 B.Tech IT (2022–2026) | CGPA: 7.9  
-- ⚡ Strong in **DSA, OOP, Debugging & System Design**  
-- ☁️ Exploring **AWS, Cloud Architecture & Performance Optimization**  
-- 🧩 Love solving complex problems and improving system efficiency  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Onkar-Unde&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## ⚡ Tech Arsenal
+## 🧠 About Me
+
+💻 Passionate **Software Engineer** focused on scalable applications  
+🚀 Software Developer Intern @ Prolific Consultants  
+🔥 Ex-Intern @ Celebal Technologies & Athang Robotics  
+
+- 🎓 B.Tech IT (2022–2026) | CGPA: 7.9  
+- ⚡ Strong in **DSA, OOP, Debugging & System Design**  
+- ☁️ Exploring **AWS, Cloud & Performance Optimization**  
+- 📫 Email: **undeonkar11@gmail.com**  
+
+---
+
+## ⚡ Tech Stack
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
@@ -33,21 +41,15 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
----
-
-### 🌐 Full Stack Development
+### 🌐 Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
----
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
----
 
 ### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
@@ -58,52 +60,70 @@
 
 ---
 
-## 💼 Experience Snapshot
+## 💼 Experience
 
 ### 🚀 Prolific Consultants
-- ⚡ Boosted application responsiveness by **20%**
-- 🐞 Identified & resolved performance bottlenecks
-- ✅ Ensured stability with unit testing
+- ⚡ Improved responsiveness by **20%**
+- 🐞 Debugged performance issues
+- ✅ Wrote unit tests
 
 ### 💻 Celebal Technologies
 - 🚀 Reduced load time by **80%**
-- 🧠 Designed scalable modules using OOP
+- 🧠 Built scalable modules
 
 ### 🌐 Athang Robotics
-- 📈 Increased efficiency by **35%**
-- 🔧 Developed APIs + frontend features
+- 📈 Improved efficiency by **35%**
+- 🔧 Developed APIs & frontend
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Vehicle Rental System
-> Smart booking system with real-time availability filtering
-
-- ⚙️ Built using **React + Node.js + Firebase**
-- 📊 Optimized booking logic & performance
-- 🔥 Dynamic filtering using date/time selection
+Smart booking system with real-time availability  
+[![Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge)](https://github.com/Onkar-Unde)
 
 ---
 
 ### 🔹 Canteen Management System
-> Full-stack food ordering & payment solution
-
-- 🛒 Developed complete order workflow
-- ⚡ Improved DB performance with optimized queries
-- ✅ Ensured reliability via testing
+Full-stack food ordering platform  
+[![Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge)](https://github.com/Onkar-Unde)
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onkar-Unde&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=Onkar-Unde&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Onkar-Unde&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Unde&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Unde&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=Onkar-Unde&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Onkar-Unde&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Onkar-Unde&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -113,6 +133,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Onkar-Unde/Onkar-Unde/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -128,7 +149,7 @@
 
 ---
 
-## 🧩 Developer Philosophy
+## 🧠 Developer Mindset
 
 ```text
 Build → Optimize → Scale → Repeat
