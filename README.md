@@ -1,6 +1,6 @@
 <!-- 🔥 PREMIUM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:2C5364&height=220&section=header&text=Hi I'm Onkar%20Unde&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:2C5364&height=220&section=header&text=Onkar%20Unde&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">🚀 Full Stack Developer | MERN Engineer | System Design Explorer</h3>
@@ -94,7 +94,7 @@ Full-stack food ordering platform
 
 <p align="center">
   <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=Onkar-Unde&show_icons=true&theme=tokyonight" /> -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Unde&layout=compact&theme=tokyonight" />
+  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar-Unde&layout=compact&theme=tokyonight" /> -->
 </p>
 
 <p align="center">
