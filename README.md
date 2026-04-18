@@ -84,9 +84,9 @@ Smart booking system with real-time availability
 
 ---
 
-### 🔹 Canteen Management System
-Full-stack food ordering platform  
-[![Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge)](https://github.com/Onkar-Unde)
+### 🔹 Leaf Diseases Detect AI
+AI system to detect the diseases of leaf 
+[![Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge)](https://leaf-diseases-detect-main-nu9xafpppmhtaptjlhyepu.streamlit.app/)
 
 ---
 
