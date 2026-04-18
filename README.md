@@ -90,7 +90,7 @@ AI system to detect the diseases of leaf
 
 ---
 ### 🔹 Leaf Diseases Detect AI
-Smart booking system with real-time availability  
+AI system to detect the diseases of leaf  
 [![Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge)](https://leaf-diseases-detect-main-nu9xafpppmhtaptjlhyepu.streamlit.app/)
 
 ## 📊 GitHub Stats
