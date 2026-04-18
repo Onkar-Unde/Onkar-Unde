@@ -89,9 +89,9 @@ AI system to detect the diseases of leaf
 [![Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge)](https://leaf-diseases-detect-main-nu9xafpppmhtaptjlhyepu.streamlit.app/)
 
 ---
-### 🔹 Vehicle Rental System
+### 🔹 Leaf Diseases Detect AI
 Smart booking system with real-time availability  
-[![Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge)](https://car-bike-rental.netlify.app/)
+[![Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge)](https://leaf-diseases-detect-main-nu9xafpppmhtaptjlhyepu.streamlit.app/)
 
 ## 📊 GitHub Stats
 
